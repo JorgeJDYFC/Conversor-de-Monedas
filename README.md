@@ -27,7 +27,7 @@ Esta opcion te permite ver el valor de una de las 10 monedas disponibles frente 
 - Ver el historial de consultas (si existen).  
 Dentro de tu historial se guardaran todas las consultas realizadas en la opcion *1 y 2* para que puedas comparar el valor de futuras consultas.  
 - Salir.  
-Para la ejecucion del programa.  
+Detiene la ejecucion del programa. 
 
 Como puedes ver este programa te ofrece una gran cantidad de opciones para hacer pero queda una cosa a tener en cuenta...
 
